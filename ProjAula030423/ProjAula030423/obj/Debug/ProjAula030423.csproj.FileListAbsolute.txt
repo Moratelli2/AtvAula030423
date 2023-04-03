@@ -1,0 +1,11 @@
+C:\Users\Logatti\source\repos\ProjAula030423\ProjAula030423\bin\Debug\ProjAula030423.exe.config
+C:\Users\Logatti\source\repos\ProjAula030423\ProjAula030423\bin\Debug\ProjAula030423.exe
+C:\Users\Logatti\source\repos\ProjAula030423\ProjAula030423\bin\Debug\ProjAula030423.pdb
+C:\Users\Logatti\source\repos\ProjAula030423\ProjAula030423\obj\Debug\ProjAula030423.csproj.AssemblyReference.cache
+C:\Users\Logatti\source\repos\ProjAula030423\ProjAula030423\obj\Debug\ProjAula030423.csproj.SuggestedBindingRedirects.cache
+C:\Users\Logatti\source\repos\ProjAula030423\ProjAula030423\obj\Debug\ProjAula030423.Form1.resources
+C:\Users\Logatti\source\repos\ProjAula030423\ProjAula030423\obj\Debug\ProjAula030423.Properties.Resources.resources
+C:\Users\Logatti\source\repos\ProjAula030423\ProjAula030423\obj\Debug\ProjAula030423.csproj.GenerateResource.cache
+C:\Users\Logatti\source\repos\ProjAula030423\ProjAula030423\obj\Debug\ProjAula030423.csproj.CoreCompileInputs.cache
+C:\Users\Logatti\source\repos\ProjAula030423\ProjAula030423\obj\Debug\ProjAula030423.exe
+C:\Users\Logatti\source\repos\ProjAula030423\ProjAula030423\obj\Debug\ProjAula030423.pdb
