@@ -1,0 +1,11 @@
+C:\Users\Logatti\source\repos\ATVAULA2\ATVAULA2\bin\Debug\ATVAULA2.exe.config
+C:\Users\Logatti\source\repos\ATVAULA2\ATVAULA2\bin\Debug\ATVAULA2.exe
+C:\Users\Logatti\source\repos\ATVAULA2\ATVAULA2\bin\Debug\ATVAULA2.pdb
+C:\Users\Logatti\source\repos\ATVAULA2\ATVAULA2\obj\Debug\ATVAULA2.csproj.AssemblyReference.cache
+C:\Users\Logatti\source\repos\ATVAULA2\ATVAULA2\obj\Debug\ATVAULA2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Logatti\source\repos\ATVAULA2\ATVAULA2\obj\Debug\ATVAULA2.Form1.resources
+C:\Users\Logatti\source\repos\ATVAULA2\ATVAULA2\obj\Debug\ATVAULA2.Properties.Resources.resources
+C:\Users\Logatti\source\repos\ATVAULA2\ATVAULA2\obj\Debug\ATVAULA2.csproj.GenerateResource.cache
+C:\Users\Logatti\source\repos\ATVAULA2\ATVAULA2\obj\Debug\ATVAULA2.csproj.CoreCompileInputs.cache
+C:\Users\Logatti\source\repos\ATVAULA2\ATVAULA2\obj\Debug\ATVAULA2.exe
+C:\Users\Logatti\source\repos\ATVAULA2\ATVAULA2\obj\Debug\ATVAULA2.pdb
